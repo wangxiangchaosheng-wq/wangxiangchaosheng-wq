@@ -11,9 +11,9 @@
 <h3 align="center">Profile Views</h3>
 
 <p align="center">
-  <img src="assets/my-cat.jpg" width="110" height="110" alt="My tortoiseshell cat wearing blue glasses" />
-  &nbsp;&nbsp;
   <img src="https://count.loliai.link/get/@wangxiangchaosheng-wq-profile?theme=moebooru" height="110" alt="Profile view counter" />
+  &nbsp;&nbsp;
+  <img src="assets/my-cat.jpg" width="110" height="110" alt="My tortoiseshell cat wearing blue glasses" />
 </p>
 
 <p align="center">
