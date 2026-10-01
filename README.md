@@ -3,11 +3,11 @@
 </a>
 
 <p align="center">
-  <a href="https://wangxiangchaosheng-wq.github.io/wangxiangchaosheng-wq/?focus=visual"><img src="assets/exploration-cards/visual.webp" width="120" alt="视觉实验：螺钿小猫、眼睛与画笔，点击进入" /></a>
+  <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/visual.md"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/exploration-cards/visual.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/exploration-cards/visual-auto-dark.gif" /><img src="assets/exploration-cards/visual-auto-light.gif" width="120" height="240" alt="视觉实验：自动循环倾斜与银光，点击查看" /></picture></a>
   &nbsp;
-  <a href="https://wangxiangchaosheng-wq.github.io/wangxiangchaosheng-wq/?focus=interaction"><img src="assets/exploration-cards/interaction.webp" width="120" alt="交互体验：螺钿小猫穿过拱门，手指触碰光球，点击进入" /></a>
+  <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/interaction.md"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/exploration-cards/interaction.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/exploration-cards/interaction-auto-dark.gif" /><img src="assets/exploration-cards/interaction-auto-light.gif" width="120" height="240" alt="交互体验：自动循环倾斜与银光，点击查看" /></picture></a>
   &nbsp;
-  <a href="https://wangxiangchaosheng-wq.github.io/wangxiangchaosheng-wq/?focus=learning"><img src="assets/exploration-cards/learning.webp" width="120" alt="学习手记：螺钿小猫与生长植物的书本，点击进入" /></a>
+  <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/learning.md"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/exploration-cards/learning.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/exploration-cards/learning-auto-dark.gif" /><img src="assets/exploration-cards/learning-auto-light.gif" width="120" height="240" alt="学习手记：自动循环倾斜与银光，点击查看" /></picture></a>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/intro-script-dark.png" />
