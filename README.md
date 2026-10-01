@@ -1,10 +1,6 @@
 <a href="https://xiang-secret-garden.netlify.app/">
-  <img src="assets/secret-garden-wind.gif" width="100%" alt="Xiang’s secret garden — Art, AI, and a little curiosity. A gentle breeze through the flowers. Click to enter my interactive garden." />
+  <img src="assets/secret-garden-illustrated.gif" width="100%" alt="Xiang’s secret garden ↗ — Art, AI, and a little curiosity. An illustrated meadow with a gentle breeze. Click to enter." />
 </a>
-
-<p align="center">
-  <a href="https://xiang-secret-garden.netlify.app/"><em>Step into the garden ↗</em></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/visual.md"><img src="assets/exploration-cards/visual.webp" width="120" alt="视觉实验：螺钿小猫、眼睛与画笔，点击进入" /></a>
@@ -12,6 +8,11 @@
   <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/interaction.md"><img src="assets/exploration-cards/interaction.webp" width="120" alt="交互体验：螺钿小猫穿过拱门，手指触碰光球，点击进入" /></a>
   &nbsp;
   <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/learning.md"><img src="assets/exploration-cards/learning.webp" width="120" alt="学习手记：螺钿小猫与生长植物的书本，点击进入" /></a>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-script-dark.png" />
+    <img src="assets/intro-script.png" width="260" height="240" alt="Hi, I’m Xiang. Exploring art, AI, and little moments of wonder. Learning as I go." />
+  </picture>
 </p>
 
 ---
