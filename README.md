@@ -10,8 +10,8 @@
   <a href="https://github.com/wangxiangchaosheng-wq/wangxiangchaosheng-wq/blob/main/explorations/learning.md"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/exploration-cards/learning.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/exploration-cards/learning-auto-dark.gif" /><img src="assets/exploration-cards/learning-auto-light.gif" width="120" height="240" alt="学习手记：自动循环倾斜与银光，点击查看" /></picture></a>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-script-dark.png" />
-    <img src="assets/intro-script.png" width="260" height="240" alt="Hi, I’m Xiang. Exploring art, AI, and little moments of wonder. Learning as I go." />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-serif-ai-dark.png" />
+    <img src="assets/intro-serif-ai-light.png" width="300" height="240" alt="Hi, I’m Xiang. I’m exploring how art, AI, and interaction can come together. I’m curious about generative AI, creative tools, and new ways to turn ideas into interactive experiences. This garden is growing with me—a place to share experiments, collect discoveries, and leave notes along the way. Still learning, still exploring." />
   </picture>
 </p>
 
