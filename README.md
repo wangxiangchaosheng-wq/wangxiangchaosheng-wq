@@ -20,13 +20,13 @@
 <h3 align="center">Profile Views</h3>
 
 <p align="center">
-  <img src="https://count.loliai.link/get/@wangxiangchaosheng-wq-profile?theme=moebooru" height="110" alt="Profile view counter" />
+  <img src="https://api.moedog.org/count/@wangxiangchaosheng-wq-profile?theme=moebooru" height="110" alt="Profile view counter" />
   &nbsp;&nbsp;
   <img src="assets/my-cat-sticker.png" width="110" height="110" alt="My tortoiseshell cat wearing blue glasses, with a white sticker outline and transparent background" />
 </p>
 
 <p align="center">
-  <sub>Counting visits since October 1, 2026.</sub>
+  <sub>Counting visits since October 9, 2026.</sub>
   <br />
   <sub>Powered by <a href="https://github.com/journey-ad/Moe-Counter">Moe-Counter</a></sub>
 </p>
