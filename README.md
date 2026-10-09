@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <sub>Counting visits since October 9, 2026.</sub>
+  <sub>Counting visits since October 1, 2026.</sub>
   <br />
   <sub>Powered by <a href="https://github.com/journey-ad/Moe-Counter">Moe-Counter</a></sub>
 </p>
